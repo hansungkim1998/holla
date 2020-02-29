@@ -55,6 +55,7 @@ This project was done with Chae Eun Park for the Horizons Hackathon by HackGT in
    - Hot glue 1 MDF support on each side of each acrylic circle
    
    <img src="IMG_0506.png" height="250">
+   
    - Glue 4 acrylic trapezoids together to create a sound chamber, repeat for the second one
 6. Assemble all components
    - Attach one acrylic-MDF assembly above each LED such that the acrylic circle is directly above the LED
