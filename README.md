@@ -21,7 +21,7 @@ This project was done with Chae Eun Park for the Horizons Hackathon by HackGT in
 - [ELEGOO Big Sound Sensor](https://www.amazon.com/ELEGOO-Upgraded-Tutorial-Compatible-MEGA2560/dp/B01MG49ZQ5/ref=sr_1_3?crid=2UP2H4601WJWQ&keywords=37+sensor+kit&qid=1572128556&sprefix=37+sens,aps,164&sr=8-3) x2
 - [12"x24" 1/8" Clear Acrylic Sheet](https://www.amazon.com/Source-Thick-Inches-Acrylic-Plexiglass/dp/B01FEF0VQI/ref=pd_sbs_229_t_1/144-1796961-3528918?_encoding=UTF8&pd_rd_i=B004DYW31I&pd_rd_r=23722ac3-ba96-430e-a6e7-02854eb94f7d&pd_rd_w=Cj4qd&pd_rd_wg=jLJDG&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=2B4SK5NH2PXG9KRQPDEN&refRID=2B4SK5NH2PXG9KRQPDEN&th=1) x3
 - [12"x24" 1/4" MDF Board](https://www.homedepot.com/p/Medium-Density-Fiberboard-Common-1-4-in-x-2-ft-x-4-ft-Actual-0-216-in-x-23-75-in-x-47-75-in-1508104/202089069) x1
-- [8ft 2"x4" Wood Stud](https://www.homedepot.com/p/2-in-x-4-in-x-96-in-Premium-Kiln-Dried-Whitewood-Stud-161640/202091220)
+- [8ft 2"x4" Wood Stud](https://www.homedepot.com/p/2-in-x-4-in-x-96-in-Premium-Kiln-Dried-Whitewood-Stud-161640/202091220) x1
 - Electrical wires
 - Tape
 
