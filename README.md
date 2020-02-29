@@ -37,6 +37,29 @@ This project was done with Chae Eun Park for the Horizons Hackathon by HackGT in
   - Hot glue gun and hot glue sticks
 
 ### Construction Instructions
+1. Cut the 2x4 wood stud
+   - Cut the stud to be 8ft long and at least a 1"x2" rectangle with a flat top and bottom
+2. Cut the LED strip
+   - Cut the LED strip to include 58 (or other desired number of) LEDs
+   - Solder the 4 wires to the end of the LED strip
+3. Attach LED strip to wood stud
+   - Center the LED strip with the center of the wood stud
+   - Attach the LED strip along the center of the wider side with hot glue
+4. Laser cut using [holla_lasercut.ai](holla_lasercut.ai)
+   - Use pages 1 and 2 to cut the appropriate number of acrylic circles
+   - Use page 3 to cut twice the number of MDF supports than acrylic circles
+   - Use page 4 to cut two sound chambers
+5. Glue lasercut components together
+   - Hot glue 1 MDF support on each side of each acrylic circle
+   - Glue 4 acrylic trapezoids together to create a sound chamber, repeat for the second one
+6. Assemble all components
+   - Attach one acrylic-MDF assembly above each LED such that the acrylic circle is directly above the LED
+   - Attach the two sound chambers on either side of the wood stud
+   - Attach one big sound sensor inside of each sound chamber
+7. Wiring
+   - Wire all necessary components
+   - Group and hide all wires to the side of the wood stud
+   - Gather all wires to the center of the setup so that they can be connected to the Arduino
 
 ## Running the Game
 1. Connect all wires according to the diagram below.
