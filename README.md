@@ -46,7 +46,7 @@ This project was done with Chae Eun Park for the Horizons Hackathon by HackGT in
    - Center the LED strip with the center of the wood stud
    - Attach the LED strip along the center of the wider side with hot glue
    
-      <img src="IMG_0502.png" height="250">
+      <img src="IMG_0502.png" height="250"> <img src="IMG_0500.png" height="250">
 4. Laser cut using [holla_lasercut.ai](holla_lasercut.ai)
    - Use pages 1 and 2 to cut the appropriate number of acrylic circles
    - Use page 3 to cut twice the number of MDF supports than acrylic circles
@@ -62,7 +62,7 @@ This project was done with Chae Eun Park for the Horizons Hackathon by HackGT in
    - Attach the two sound chambers on either side of the wood stud
    - Attach one big sound sensor inside of each sound chamber
    
-      <img src="IMG_0509.png" height="250"> <img src="IMG_0515.png" height="250">
+      <img src="IMG_0515.png" height="250"> <img src="IMG_0518.png" height="250">
 7. Wiring
    - Wire all necessary components
    - Group and hide all wires to the side of the wood stud
