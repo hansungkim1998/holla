@@ -6,10 +6,7 @@ Inspired by the [duel between Lord Voldemort and Harry from *Harry Potter*](http
 
 This project was done with Chae Eun Park for the Horizons Hackathon by HackGT in February 2020 at the Georgia Institute of Technology.
 
-[<img src="holla.png" height=400>](https://youtu.be/20idgEyWjvY)
-
-[![](https://youtu.be/20idgEyWjvY/0.jpg)](https://youtu.be/20idgEyWjvY)
-
+[<img src="holla_video.png" height=400>](https://youtu.be/20idgEyWjvY)
 
 ## Requirements
 ### Devices
