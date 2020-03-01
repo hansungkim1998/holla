@@ -82,3 +82,5 @@ This project was done with Chae Eun Park for the Horizons Hackathon by HackGT in
 - Both players scream as loud as they can into the sound chambers until one fills all the LEDs with their color.
 - Screaming louder pushes a player's beam further towards the other side.
 - When the two beams meet, they push against each other and the movement is determined by the difference in the screaming volumes.
+
+   <img src="demo.gif" height="500">
