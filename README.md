@@ -2,7 +2,7 @@
 ## Description
 Holla is an interactive screaming battle. Yell as loud as you can to shoot a beam of light from your mouth and defeat your opponent! Let off all your stress by screaming like never before.
 
-Inspired by the [duel between Lord Voldemort and Harry from *Harry Potter*](https://www.youtube.com/watch?v=ImQAFLaRpfQ), Holla is a battle to scream louder than your opponent.
+Inspired by the [duel between Lord Voldemort and Harry from *Harry Potter*](https://www.youtube.com/watch?v=ImQAFLaRpfQ), Holla is a battle to scream louder (and longer) than your opponent.
 
 This project was done with Chae Eun Park for the Horizons Hackathon by HackGT in February 2020 at the Georgia Institute of Technology.
 
@@ -36,7 +36,7 @@ This project was done with Chae Eun Park for the Horizons Hackathon by HackGT in
   - Soldering iron
   - Wiring kit (wires, wire strippers, electrical tape, solder, etc.)
 - Basic Tools
-  - Hot glue gun and hot glue sticks
+  - Hot glue gun and hot glue sticks (or superglue)
 
 ### Construction Instructions
 1. Cut the 2x4 wood stud
@@ -81,8 +81,9 @@ This project was done with Chae Eun Park for the Horizons Hackathon by HackGT in
 ## Playing the Game
 ### Rules
 - The game is played by 2 players.
-- Both players scream as loud as they can into the sound chambers until one fills all the LEDs with their color.
+- Both players scream as loud as they can into the sound chambers until one completely fills all the LEDs with their color.
 - Screaming louder pushes a player's beam further towards the other side.
 - When the two beams meet, they push against each other and the movement is determined by the difference in the screaming volumes.
 
    <img src="demo.gif" height="500">
+   
